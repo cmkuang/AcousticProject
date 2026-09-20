@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw acoustic data are intentionally included in this repository.
+# Do not add ignore rules for data/raw/ unless the storage strategy changes.
+
+# Optional generated outputs
+# Uncomment these if you do not want generated figures/results tracked.
+# figures/
+# results/
